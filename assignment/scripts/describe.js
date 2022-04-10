@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// It is creating a variable called dane and it is set to name.
+// Since the name is dane we check if the name is a true exact match to Mary
+// If the name is a true match to mary you would console.log 'Hi, Mary!'
+//If the name in the variable isn't Mary console.log 'How do you do?'
 
 //CODE
 /*
@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// Create a variable called secret 
+// The secret code is created as the number 123
+// If the code is a true and exact match, 
 //
 
 //CODE
