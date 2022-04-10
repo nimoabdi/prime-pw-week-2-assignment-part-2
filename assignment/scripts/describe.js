@@ -72,7 +72,7 @@ console.log(secret)
 // 3. WRITE YOUR DESCRIPTION HERE
 // Variable created for isStudent and the age is set to 34 including the zip code which is 55407.
 // If the student has a zip code greater than 8000 which is false you would continue to the else
-// If the student has a true and exact match to age 30 you would continue with the console.log but in this situation the student is older than 30 so it is false. The student username is true not false as well
+// We check if the students username isStudent is false (which it is not) and if the student is less than 30 years old. The student is 34 so this scenario isn't true.
 //Since the students user is a true and exact match to isStudent, we would console.log('Welcome to Prime!')
 
 //CODE
@@ -130,12 +130,12 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'blue';
+let colorTwo = 'red';
 let mix = true;
 
 if (mix === true) {
-  colorOne = 'purple';
+  colorOne + colorTwo = 'purple';
 }
 */
 
@@ -160,7 +160,7 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-if(minAge <= age) {
+if(minAge >= age) {
   console.log('no entry');
 } else {
   console.log('enter');
