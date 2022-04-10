@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// Create a variable called secret 
-// The secret code is created as the number 123
-// If the code is a true and exact match, 
-//
+// Create a variable called secret and a code is created that equals to 123.
+// If the code is a true and exact match to 123, the secret is super.
+// The variable 123 is now being multiplied by 2 so the code is now 246.
+// If the code is less than 250 the secret is super and if it is greater than 250 it is duper and you would console.log (secret) since the code is less than 250.
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Variable created for isStudent and the age is set to 34 including the zip code which is 55407.
+// If the student has a zip code greater than 8000 which is false you would continue to the else
+// If the student has a true and exact match to age 30 you would continue with the console.log but in this situation the student is older than 30 so it is false. The student username is true not false as well
+//Since the students user is a true and exact match to isStudent, we would console.log('Welcome to Prime!')
 
 //CODE
 /*
